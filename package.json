@@ -1,0 +1,15 @@
+{
+  "name": "functional-javascript-11.2016",
+  "version": "1.0.0",
+  "description": "Solutions to timoxley/javascript-functional-workshop",
+  "main": "exercises/1.js",
+  "repository": {
+    "url": "git@github.com:ajhyndman/functional-javascript-11.2016.git"
+  },
+  "author": "Andrew Hyndman <ajhyndman@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^3.10.2",
+    "standard": "^8.5.0"
+  }
+}
